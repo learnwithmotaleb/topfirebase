@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315101799462",
+    "project_id": "fir-project-dfcbc",
+    "storage_bucket": "fir-project-dfcbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315101799462:android:a16558c2f94b9988f532e7",
+        "android_client_info": {
+          "package_name": "com.example.topfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGHw9VOzd6UwLrJHa__xxwaANG9bUZbYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
